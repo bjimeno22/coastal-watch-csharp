@@ -1,2 +1,2 @@
 # coastal-watch-csharp
-A personal capstone project used to keep track on the nc coastline
+A personal capstone project used to keep track of the nc coastline
